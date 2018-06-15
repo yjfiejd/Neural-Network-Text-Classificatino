@@ -1,1 +1,1 @@
-# Neural Network Text Classificatino
+# Neural-Network-Text-Classification
